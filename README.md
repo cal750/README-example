@@ -1,6 +1,6 @@
 
   ## Title
-  README
+  README Generator
   
   ## Description 
   An application that can develop professional looking README files
